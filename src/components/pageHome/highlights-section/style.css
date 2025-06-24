@@ -1,0 +1,12 @@
+.highlights-section {
+  background-color: #fff;
+  padding: 50px;
+  text-align: center;
+}
+
+.cards {  
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-top: 30px;
+}
