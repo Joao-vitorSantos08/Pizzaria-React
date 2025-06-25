@@ -13,7 +13,7 @@ const HighlightsSection = () => {
             <div className="cards">
                 <CardPizza pizzaImage={pizza01} pizzaName="Pizza de Palmito" pizzaIngredients="Tradicional, com bastante sabor crocâcia"/>                                                       
                 <CardPizza pizzaImage={pizza02} pizzaName="Pizza de Cogumelos" pizzaIngredients="Tradicional, com bastante sabor crocâcia"/>                                                       
-                <CardPizza pizzaImage={pizza03} pizzaName="Pizza de Cogumelos gurme" pizzaIngredients="Tradicional, com bastante sabor crocâcia"/>                                                       
+                <CardPizza pizzaImage={pizza03} pizzaName="Pizza de cogumelos com queijo Vegano" pizzaIngredients="Tradicional, com bastante sabor crocâcia"/>                                                       
             </div>
             
         </section>
